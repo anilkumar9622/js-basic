@@ -1,0 +1,24 @@
+git and github - remotly server
+
+collabaration
+person1 - local machine - feature  - github - server
+person2 - local machine - feature 
+
+git - VCS - version control system
+history maintained , tracking
+person1 - index.js -  changes - add function
+
+const age = 20;  -   4 apr - commit - anil, data, time
+const age = 40;   -  5 apr - commit - anil, date, timeff
+
+revert - 
+
+1. git install - CLI/git bash
+2. config global - user, email
+3. git init - enable - and make dir:- .git
+4. git status
+5. git add index.html / git add .
+6. git commit -m "heading change"
+
+
+
