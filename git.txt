@@ -20,5 +20,23 @@ revert -
 5. git add index.html / git add .
 6. git commit -m "heading change"
 
+7. git push origin master
+8  git pull origin master
+
+7. braching
+ 
+ github / gitlab / bitbucket
+
+1. account
+2. connecting from git to github - ssh - secure socket shell 
+3. ssh key - authentication
+
+4. repository - project
+5. repo add - git remote add origin <url>
+6. git branch -M master
+
+8. git push
+
+
 
 
