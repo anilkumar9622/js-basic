@@ -37,6 +37,8 @@ revert -
 
 8. git push
 
+9. git pull
+
 
 
 
