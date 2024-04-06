@@ -50,6 +50,8 @@ docs/T-654-update-readme
 
  10. git checkout -b feature/user-authentication
 
+ ex - this is new feature branch
+
 
 
 
